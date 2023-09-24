@@ -1,0 +1,44 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+img {
+  width: 3rem;
+}
+
+.result {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.js-game-result {
+  padding: 40px 0 0 0;
+}
+
+.player-interaction-buttons {
+  background-color: black;
+  padding: 30px;
+  border: solid white;
+  margin: 0 10px 40px 0;
+  border-radius: 50%;
+}
+
+.reset-score,
+.auto-play {
+  color: black;
+  font-size: 16px;
+  background-color: default;
+  padding: 8px 14px;
+  border-radius: 0px;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
